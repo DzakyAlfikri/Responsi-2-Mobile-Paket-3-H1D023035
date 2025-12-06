@@ -3,7 +3,7 @@
 # Shift Baru : C
 # Shift KRS : B
 # Demo Aplikasi
-https://raw.githubusercontent.com/DzakyAlfikri/Responsi-2-Mobile-Paket-3-H1D023035/main/Demo.mp4
+![Demo](demoo.gif)
 
 
 # API Specification - Inventaris Buku
