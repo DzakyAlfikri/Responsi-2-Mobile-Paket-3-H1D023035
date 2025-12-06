@@ -2,6 +2,8 @@
 # NIM : H1D023035
 # Shift Baru : C
 # Shift KRS : B
+# Demo Aplikasi
+![Demo Video](Demo.mp4)
 
 # API Specification - Inventaris Buku
 
